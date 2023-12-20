@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/62808852/cant-run-ipython-on-cmd
