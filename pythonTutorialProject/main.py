@@ -3005,4 +3005,9 @@ food = Food() #Calling food constructor
 
 next_turn(snake,food)
 
-window.mainloop()"""
+window.mainloop()
+
+#----------------------------------------------------------------
+
+print("Hello World")"""
+
