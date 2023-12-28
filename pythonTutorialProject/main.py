@@ -3009,5 +3009,7 @@ window.mainloop()
 
 #----------------------------------------------------------------
 
+print("Hello World")
+
 print("Hello World")"""
 
