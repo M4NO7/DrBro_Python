@@ -1,2 +1,5 @@
 https://stackoverflow.com/questions/11696295/rejected-master-master-non-fast-forward
 
+
+https://stackoverflow.com/questions/38128291/jupyter-notebook-only-runs-in-python-root
+
