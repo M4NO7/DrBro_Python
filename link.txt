@@ -3,3 +3,8 @@ https://stackoverflow.com/questions/11696295/rejected-master-master-non-fast-for
 
 https://stackoverflow.com/questions/38128291/jupyter-notebook-only-runs-in-python-root
 
+#always remember to name this IPython rather than Ipython
+from IPython.display import display
+
+https://stackoverflow.com/questions/45179915/importerror-no-module-named-ipython
+
