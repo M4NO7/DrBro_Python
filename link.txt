@@ -8,3 +8,9 @@ from IPython.display import display
 
 https://stackoverflow.com/questions/45179915/importerror-no-module-named-ipython
 
+https://stackoverflow.com/questions/4181861/message-src-refspec-master-does-not-match-any-when-pushing-commits-in-git
+
+https://www.decodingweb.dev/solved-syntaxerror-unterminated-string-literal-in-python
+
+https://stackoverflow.com/questions/1802971/nameerror-name-self-is-not-defined
+
