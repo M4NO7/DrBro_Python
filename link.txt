@@ -14,3 +14,36 @@ https://www.decodingweb.dev/solved-syntaxerror-unterminated-string-literal-in-py
 
 https://stackoverflow.com/questions/1802971/nameerror-name-self-is-not-defined
 
+
+https://stackoverflow.com/questions/53697293/how-to-plot-data-with-axes3d-in-python - How to plot data with Axes3D in python?
+
+https://matplotlib.org/stable/users/explain/toolkits/mplot3d.html - The mplot3d toolkit
+
+https://matplotlib.org/stable/users/explain/quick_start.html - Quick start guide
+
+https://matplotlib.org/2.0.2/mpl_toolkits/mplot3d/tutorial.html - tutorial
+
+https://matplotlib.org/stable/api/toolkits/mplot3d/view_angles.html - mplot3d View Angles
+
+https://stackoverflow.com/questions/48509766/importerror-no-module-named-mpl-toolkits - ImportError: No module named mpl_toolkits
+
+https://www.bing.com/search?pglt=43&q=ModuleNotFoundError%3A+No+module+named+%27mpl_toolkits%27&cvid=377cbae71c7548fcadf097877429e99a&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEIMTAwN2owajGoAgCwAgA&FORM=ANNTA1&PC=U531
+
+https://github.com/matplotlib
+
+https://stackoverflow.com/questions/52356192/modulenotfounderror-no-module-named-mpl-toolkits-basemap
+
+https://en.wikipedia.org/wiki/Lorenz_system
+
+https://en.wikipedia.org/wiki/Chaos_theory#Lorenz's_pioneering_contributions_to_chaotic_modeling
+
+https://stackoverflow.com/questions/18596410/importerror-no-module-named-mpl-toolkits-with-maptlotlib-1-3-0-and-py2exe
+
+https://stackoverflow.com/questions/7816799/getting-py2exe-to-work-with-zope-interface/11632115#11632115
+
+https://matplotlib.org/stable/gallery/mplot3d/index.html
+
+https://github.com/patnr/mpl-tools/tree/master
+
+https://stackoverflow.com/questions/53697293/how-to-plot-data-with-axes3d-in-python
+
