@@ -51,6 +51,8 @@ https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-
 
 https://stackoverflow.com/questions/827351/push-origin-master-error-on-new-repository/6518774#6518774
 
+https://github.com/jupyter-widgets/ipywidgets/issues/2140
+
 matplotlib
 
 https://stackoverflow.com/questions/53697293/how-to-plot-data-with-axes3d-in-python
