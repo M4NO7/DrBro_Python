@@ -47,3 +47,11 @@ https://github.com/patnr/mpl-tools/tree/master
 
 https://stackoverflow.com/questions/53697293/how-to-plot-data-with-axes3d-in-python
 
+https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote
+
+https://stackoverflow.com/questions/827351/push-origin-master-error-on-new-repository/6518774#6518774
+
+matplotlib
+
+https://stackoverflow.com/questions/53697293/how-to-plot-data-with-axes3d-in-python
+
