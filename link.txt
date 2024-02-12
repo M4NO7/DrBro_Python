@@ -53,6 +53,8 @@ https://stackoverflow.com/questions/827351/push-origin-master-error-on-new-repos
 
 https://github.com/jupyter-widgets/ipywidgets/issues/2140
 
+https://github.com/jupyter-widgets/tutorial
+
 matplotlib
 
 https://stackoverflow.com/questions/53697293/how-to-plot-data-with-axes3d-in-python
